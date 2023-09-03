@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ouail Mohammed Oucherif</h1>
-<h3 align="center">A passionate frontend developer from Algeria 🇩🇿</h3>
+<h3 align="center">A passionate computer science engineering from Algeria 🇩🇿</h3>
 
 - 🔭 I’m currently working on **some interesting web projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ouailouchi@gmail.com**
 
-- ⚡ Fun fact **I genuinely love discrete mathematics :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
