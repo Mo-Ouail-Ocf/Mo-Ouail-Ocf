@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React js , ui libraries , ui/ux design , data structures ...**
 
-- 👨‍💻 All of my projects are available at [my portfolio // under coding](my portfolio // under coding)
-
 - 💬 I will glad to discuss about **web development , machine learning , applied mathematics , computer architecture ...**
 
 - 📫 How to reach me **ouailouchi@gmail.com**
