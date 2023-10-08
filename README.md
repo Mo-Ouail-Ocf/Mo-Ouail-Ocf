@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ouail Mohammed Oucherif</h1>
 <h3 align="center">A passionate computer science engineering student from Algeria 🇩🇿</h3>
 
-- 🔭 I’m currently working on **some interesting web projects**
+- 🔭 I’m currently working on **some interesting web projects** , and learning interesting topics in computer architecutre , algorithms and data structures ...
 
 - 🌱 I’m currently learning **React js , ui libraries , ui/ux design , data structures ...**
 
