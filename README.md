@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some interesting web projects , and repo for data structures**
 
-- 🌱 I’m currently learning **React js, data structures  and algorithms, node js and express js**
+- 🌱 I’m currently learning **deep learning and reinforcement learning**
 
 - 💬 I will glad to discuss about **web development , machine learning , applied mathematics , computer architecture**
 
