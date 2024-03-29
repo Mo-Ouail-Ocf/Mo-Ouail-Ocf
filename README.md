@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **deep learning and reinforcement learning**
 
-- 💬 I will glad to discuss about **web development , machine learning , applied mathematics , computer architecture**
+- 💬 I will glad to discuss about **web development , machine learning , applied mathematics ,competitive programming**
 
 - 📫 How to reach me **m.ouail.oucherif@gmail.com**
 
