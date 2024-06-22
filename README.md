@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ouail Mohammed Oucherif</h1>
 <h3 align="center">A passionate computer science engineering student from Algeria 🇩🇿</h3>
 
-- 🔭 I’m currently working on **some interesting web projects , and repo for data structures**
-
 - 🌱 I’m currently learning **deep learning and reinforcement learning**
 
-- 💬 I will glad to discuss about **web development , machine learning , applied mathematics ,competitive programming**
+- 💬 I will glad to discuss about **machine learning , applied mathematics , competitive programming**
 
 - 📫 How to reach me **m.ouail.oucherif@gmail.com**
 
