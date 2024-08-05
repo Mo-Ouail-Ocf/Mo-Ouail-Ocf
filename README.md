@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/in/ouail-mohammed-oucherif-733537289/" target="blank">
     <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@m.ouail.oucherif" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Medium_icon.svg" alt="Medium" height="30" width="40" />
+ <a href="https://medium.com/@m.ouail.oucherif" target="blank">
+    <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
 
