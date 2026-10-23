@@ -1,4 +1,3 @@
-# Ouail Mohammed Oucherif
 
 AI Researcher and Engineer interested in **reinforcement learning** and **sequential decision making**, currently working in robot learning and computational neuroscience.
 
